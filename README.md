@@ -1,5 +1,6 @@
 # STEPin MiniProject_Template Sample
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/34acc775b49841ef818b4580001dc8eb)](https://app.codacy.com/gh/99002461/MiniProject_Template?utm_source=github.com&utm_medium=referral&utm_content=99002461/MiniProject_Template&utm_campaign=Badge_Grade)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3b20c7c3ec7f4734b42cc0d04dcf3fb2)](https://app.codacy.com/manual/stepin654321/MiniProject_Template?utm_source=github.com&utm_medium=referral&utm_content=stepin654321/MiniProject_Template&utm_campaign=Badge_Grade_Dashboard)
 
 
